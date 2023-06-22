@@ -6,6 +6,7 @@
   
   TO5 - Description of how the task should be done 
   Financial_calculators.py - phyton code calculatore
+  Screenshot05 -screenshot of the my project in action
   
   
  To install a GitHub project locally in Python, you can follow these steps:
@@ -18,3 +19,5 @@ pip install -r requirements.txt
 3.Run the Project
 python main.py
 
+How to use the investment calculator - I attached the screenshots to prove that the computer is working.
+The users has to press run and in regards the type os the calculator will be asked to more questions, as : interest rates, number of months etc

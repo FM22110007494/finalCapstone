@@ -5,5 +5,16 @@
   Tabel of content 
   
   TO5 - Description of how the task should be done 
-  Financial_calculators.py - phyton code caluclater 
+  Financial_calculators.py - phyton code calculatore
   
+  
+ To install a GitHub project locally in Python, you can follow these steps:
+ 1. Clone the Repository: Open a terminal or command prompt and navigate to the directory where you want to clone the project.
+  exampel: git clone https://github.com/username/repository.git
+  
+2.Install Dependencies: (Check if the project has a requirements.txt file containing the required dependencies.)
+pip install -r requirements.txt
+
+3.Run the Project
+python main.py
+

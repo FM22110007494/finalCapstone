@@ -2,22 +2,22 @@
  This project was to create a financial computer that allows the user to access two different calculators: an investment calculator and a home loan repayment calculator.
  In regard to what the user input is the calculator, calculates how much money the user will have to deposit each month.
   
-  Tabel of content 
+  Table of content 
   
   TO5 - Description of how the task should be done 
-  Financial_calculators.py - phyton code calculatore
-  Screenshot05 -screenshot of the my project in action
+  Financial_calculators.py - phyton code calculator
+  Screenshot05 -screenshot of my project in action
   
   
  To install a GitHub project locally in Python, you can follow these steps:
  1. Clone the Repository: Open a terminal or command prompt and navigate to the directory where you want to clone the project.
-  exampel: git clone https://github.com/username/repository.git
+  example: git clone https://github.com/username/repository.git
   
-2.Install Dependencies: (Check if the project has a requirements.txt file containing the required dependencies.)
+2. Install Dependencies: (Check if the project has a requirements.txt file containing the required dependencies.)
 pip install -r requirements.txt
 
 3.Run the Project
 python main.py
 
 How to use the investment calculator - I attached the screenshots to prove that the computer is working.
-The users has to press run and in regards the type os the calculator will be asked to more questions, as : interest rates, number of months etc
+The user has to press run and in regards to the type os the calculator will be asked more questions, as interest rates, number of months etc
